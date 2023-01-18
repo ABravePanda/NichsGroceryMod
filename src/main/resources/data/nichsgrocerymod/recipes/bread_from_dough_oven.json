@@ -1,0 +1,11 @@
+{
+  "type": "nichsgrocerymod:oven",
+  "ingredients": [
+    {
+      "item": "nichsgrocerymod:dough"
+    }
+  ],
+  "output": {
+      "item": "minecraft:bread"
+    }
+}

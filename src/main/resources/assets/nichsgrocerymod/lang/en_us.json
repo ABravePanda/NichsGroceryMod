@@ -1,0 +1,17 @@
+{
+  "item.nichsgrocerymod.salt" : "Salt",
+  "item.nichsgrocerymod.butter" : "Butter",
+  "item.nichsgrocerymod.sliced_bread" : "Sliced Bread",
+  "item.nichsgrocerymod.dough" : "Dough",
+
+  "item.nichsgrocerymod.knife" : "Knife",
+
+  "item.nichsgrocerymod.tomato_seeds" : "Tomato Seeds",
+
+  "item.nichsgrocerymod.flour" : "Flour",
+
+  "block.nichsgrocerymod.salt_block" : "Salt Block",
+  "block.nichsgrocerymod.oven" : "Oven",
+
+  "itemGroup.foodtab" : "Nich's Grocery Mod"
+}

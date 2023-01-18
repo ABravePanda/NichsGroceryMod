@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "nichsgrocerymod:flour",
+      "count": 2
+    }
+  ],
+  "result": {
+    "item": "nichsgrocerymod:dough",
+    "count": 1
+  }
+}

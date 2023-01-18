@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "nichsgrocerymod:block/tomato_stage2"
+  }
+}

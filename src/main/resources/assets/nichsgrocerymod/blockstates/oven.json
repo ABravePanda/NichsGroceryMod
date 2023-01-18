@@ -1,0 +1,8 @@
+{
+  "variants" : {
+    "facing=north": { "model": "nichsgrocerymod:block/oven" },
+    "facing=east": { "model": "nichsgrocerymod:block/oven", "y": 90 },
+    "facing=south": { "model": "nichsgrocerymod:block/oven", "y": 180 },
+    "facing=west": { "model": "nichsgrocerymod:block/oven", "y": 270 }
+  }
+}

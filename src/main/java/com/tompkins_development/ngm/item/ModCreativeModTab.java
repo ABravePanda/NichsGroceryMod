@@ -1,15 +1,15 @@
-package com.tompkins_development.ngm.tabs;
+package com.tompkins_development.ngm.item;
 
-import net.minecraft.client.Minecraft;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.level.material.Material;
 
-public class GroceryModCreativeTab {
+public class ModCreativeModTab {
     public static final CreativeModeTab FOOD_TAB = new CreativeModeTab("foodtab") {
+
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack();
+            return new ItemStack(ModItems.SALT.get());
         }
-    }
+
+    };
 }
